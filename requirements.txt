@@ -2,7 +2,7 @@
 # This is a React/TypeScript project, so actual dependencies are in package.json
 
 # Main Framework
-React 18.2.0+
+React
 TypeScript 5.2.0+
 Vite 5.2.0+
 
